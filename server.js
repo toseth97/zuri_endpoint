@@ -19,8 +19,8 @@ app.get("/api", (req, res) => {
         utc_time: new Date(),
         track: track,
         github_file_url:
-            "https://github.com/username/repo/blob/main/file_name.ext",
-        github_repo_url: "https://github.com/username/repo",
+            "https://github.com/toseth97/zuri_endpoint/blob/main/server.js",
+        github_repo_url: "https://github.com/toseth97/zuri_endpoint/",
         status_code: 200,
     };
 
